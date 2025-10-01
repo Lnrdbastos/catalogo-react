@@ -1,0 +1,12 @@
+/* Alteração: Carrega a nova fonte "Firing" */
+@font-face {
+  font-family: 'Firing';
+  src: url('/fonts/Firing.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
